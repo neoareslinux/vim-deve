@@ -293,3 +293,5 @@ set termencoding=utf-8
 "set guifont=Source\ Code\ Pro\ for\ Powerline:h16
 "set guifont=Source\ Code\ Pro\ for\ Powerline
 let g:airline_powerline_fonts = 1
+let g:go_autodetect_gopath = 0
+
